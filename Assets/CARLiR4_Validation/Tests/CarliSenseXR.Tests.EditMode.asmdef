@@ -1,0 +1,20 @@
+﻿{
+    "references":  [
+                       "CarliSenseXR.Core"
+                   ],
+    "optionalUnityReferences":  [
+                                    "TestAssemblies"
+                                ],
+    "includePlatforms":  [
+                             "Editor"
+                         ],
+    "defineConstraints":  [
+                              "UNITY_INCLUDE_TESTS"
+                          ],
+    "name":  "CarliSenseXR.Tests.EditMode",
+    "rootNamespace":  "CarliSenseXR.Tests",
+    "overrideReferences":  true,
+    "precompiledReferences":  [
+                                  "nunit.framework.dll"
+                              ]
+}

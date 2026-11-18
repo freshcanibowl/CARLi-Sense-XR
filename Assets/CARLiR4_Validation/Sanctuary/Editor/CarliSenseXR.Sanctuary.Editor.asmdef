@@ -1,0 +1,1 @@
+{"name":"CarliSenseXR.Sanctuary.Editor","rootNamespace":"CarliSenseXR.Sanctuary.EditorTools","references":["CarliSenseXR.Sanctuary","Unity.ugui"],"includePlatforms":["Editor"]}

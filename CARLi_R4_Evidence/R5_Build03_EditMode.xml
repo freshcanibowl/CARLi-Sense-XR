@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="36" result="Passed" total="36" passed="36" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.1823345">
+  <test-suite type="TestSuite" id="1000" name="CARLi Sense XR" fullname="CARLi Sense XR" runstate="Runnable" testcasecount="36" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.182335" total="36" passed="36" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1020" name="CarliSenseXR.Sanctuary.Tests.EditMode.dll" fullname="C:/Users/Asus/Documents/CARLi Sense XR/CARLi Sense XR/Library/ScriptAssemblies/CarliSenseXR.Sanctuary.Tests.EditMode.dll" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.116646" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="2008" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestSuite" id="1021" name="CarliSenseXR" fullname="CarliSenseXR" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.115318" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="TestSuite" id="1022" name="Sanctuary" fullname="CarliSenseXR.Sanctuary" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.114506" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-suite type="TestSuite" id="1023" name="Tests" fullname="CarliSenseXR.Sanctuary.Tests" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.113429" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties />
+            <test-suite type="TestFixture" id="1001" name="CarliSanctuaryCopyTests" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.110858" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+              <properties />
+              <test-case id="1018" name="ChineseConsentDoesNotPromiseDeleteOfExportedFiles" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.ChineseConsentDoesNotPromiseDeleteOfExportedFiles" methodname="ChineseConsentDoesNotPromiseDeleteOfExportedFiles" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="925434964" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.035242" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-suite type="ParameterizedMethod" id="1013" name="ConsentStepExplicitlyMentionsPermission" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.ConsentStepExplicitlyMentionsPermission" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.008348" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1010" name="ConsentStepExplicitlyMentionsPermission(0)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.ConsentStepExplicitlyMentionsPermission(0)" methodname="ConsentStepExplicitlyMentionsPermission" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="1417673393" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.001464" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+                <test-case id="1011" name="ConsentStepExplicitlyMentionsPermission(1)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.ConsentStepExplicitlyMentionsPermission(1)" methodname="ConsentStepExplicitlyMentionsPermission" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="696220514" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.001068" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+                <test-case id="1012" name="ConsentStepExplicitlyMentionsPermission(2)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.ConsentStepExplicitlyMentionsPermission(2)" methodname="ConsentStepExplicitlyMentionsPermission" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="1692277542" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000241" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+              </test-suite>
+              <test-suite type="ParameterizedMethod" id="1009" name="EachLanguageHasFourNeutralObservations" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.EachLanguageHasFourNeutralObservations" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.019520" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1006" name="EachLanguageHasFourNeutralObservations(0)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.EachLanguageHasFourNeutralObservations(0)" methodname="EachLanguageHasFourNeutralObservations" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="495502669" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.015961" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+                <test-case id="1007" name="EachLanguageHasFourNeutralObservations(1)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.EachLanguageHasFourNeutralObservations(1)" methodname="EachLanguageHasFourNeutralObservations" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="1933965856" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000479" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+                <test-case id="1008" name="EachLanguageHasFourNeutralObservations(2)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.EachLanguageHasFourNeutralObservations(2)" methodname="EachLanguageHasFourNeutralObservations" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="1010651945" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000590" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+              </test-suite>
+              <test-suite type="ParameterizedMethod" id="1005" name="EveryLanguageHasSixCompleteStages" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.EveryLanguageHasSixCompleteStages" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.004368" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1002" name="EveryLanguageHasSixCompleteStages(0)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.EveryLanguageHasSixCompleteStages(0)" methodname="EveryLanguageHasSixCompleteStages" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="1918198918" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000837" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+                <test-case id="1003" name="EveryLanguageHasSixCompleteStages(1)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.EveryLanguageHasSixCompleteStages(1)" methodname="EveryLanguageHasSixCompleteStages" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="573700390" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000419" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+                <test-case id="1004" name="EveryLanguageHasSixCompleteStages(2)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.EveryLanguageHasSixCompleteStages(2)" methodname="EveryLanguageHasSixCompleteStages" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="1790110111" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000418" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+              </test-suite>
+              <test-case id="1019" name="InvalidStepFallsBackToObserve" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.InvalidStepFallsBackToObserve" methodname="InvalidStepFallsBackToObserve" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="167236046" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000496" asserts="0">
+                <properties>
+                  <property name="retryIteration" value="0" />
+                  <property name="repeatIteration" value="0" />
+                </properties>
+              </test-case>
+              <test-suite type="ParameterizedMethod" id="1017" name="JournalStepDisclosesExportedFiles" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.JournalStepDisclosesExportedFiles" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.002874" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+                <properties />
+                <test-case id="1014" name="JournalStepDisclosesExportedFiles(0)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.JournalStepDisclosesExportedFiles(0)" methodname="JournalStepDisclosesExportedFiles" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="1537508808" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000699" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+                <test-case id="1015" name="JournalStepDisclosesExportedFiles(1)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.JournalStepDisclosesExportedFiles(1)" methodname="JournalStepDisclosesExportedFiles" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="1139436534" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000273" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+                <test-case id="1016" name="JournalStepDisclosesExportedFiles(2)" fullname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests.JournalStepDisclosesExportedFiles(2)" methodname="JournalStepDisclosesExportedFiles" classname="CarliSenseXR.Sanctuary.Tests.CarliSanctuaryCopyTests" runstate="Runnable" seed="1076288763" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000330" asserts="0">
+                  <properties>
+                    <property name="retryIteration" value="0" />
+                    <property name="repeatIteration" value="0" />
+                  </properties>
+                </test-case>
+              </test-suite>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+    <test-suite type="Assembly" id="1047" name="CarliSenseXR.Tests.EditMode.dll" fullname="C:/Users/Asus/Documents/CARLi Sense XR/CARLi Sense XR/Library/ScriptAssemblies/CarliSenseXR.Tests.EditMode.dll" runstate="Runnable" testcasecount="22" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.045069" total="22" passed="22" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="2008" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestFixture" id="1024" name="CarliCoreTests" fullname="CarliCoreTests" classname="CarliCoreTests" runstate="Runnable" testcasecount="22" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.043798" total="22" passed="22" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1029" name="AuthorizedExportAndFinish" fullname="CarliCoreTests.AuthorizedExportAndFinish" methodname="AuthorizedExportAndFinish" classname="CarliCoreTests" runstate="Runnable" seed="1944597862" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.008174" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1033" name="AuthorizedSnapshotIsDefensive" fullname="CarliCoreTests.AuthorizedSnapshotIsDefensive" methodname="AuthorizedSnapshotIsDefensive" classname="CarliCoreTests" runstate="Runnable" seed="827518351" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.001440" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1027" name="CannotAdvanceConsentByNext" fullname="CarliCoreTests.CannotAdvanceConsentByNext" methodname="CannotAdvanceConsentByNext" classname="CarliCoreTests" runstate="Runnable" seed="391278480" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000579" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1026" name="CannotGrantEarly" fullname="CarliCoreTests.CannotGrantEarly" methodname="CannotGrantEarly" classname="CarliCoreTests" runstate="Runnable" seed="923021045" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000537" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1025" name="CannotSkipEmptyObservation" fullname="CarliCoreTests.CannotSkipEmptyObservation" methodname="CannotSkipEmptyObservation" classname="CarliCoreTests" runstate="Runnable" seed="1614614288" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000651" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1028" name="DeclineDiscardsDraft" fullname="CarliCoreTests.DeclineDiscardsDraft" methodname="DeclineDiscardsDraft" classname="CarliCoreTests" runstate="Runnable" seed="1794277367" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.001235" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1031" name="DraftSnapshotCannotChangeInternalState" fullname="CarliCoreTests.DraftSnapshotCannotChangeInternalState" methodname="DraftSnapshotCannotChangeInternalState" classname="CarliCoreTests" runstate="Runnable" seed="933758558" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000626" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1034" name="ExportCannotBeRepeated" fullname="CarliCoreTests.ExportCannotBeRepeated" methodname="ExportCannotBeRepeated" classname="CarliCoreTests" runstate="Runnable" seed="1822861980" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000660" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1046" name="ExportFailureDoesNotClaimFinish" fullname="CarliCoreTests.ExportFailureDoesNotClaimFinish" methodname="ExportFailureDoesNotClaimFinish" classname="CarliCoreTests" runstate="Runnable" seed="857486359" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000570" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1032" name="ExportSnapshotBlockedBeforeConsent" fullname="CarliCoreTests.ExportSnapshotBlockedBeforeConsent" methodname="ExportSnapshotBlockedBeforeConsent" classname="CarliCoreTests" runstate="Runnable" seed="2121230145" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000559" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1036" name="HoldCancelsOnRelease" fullname="CarliCoreTests.HoldCancelsOnRelease" methodname="HoldCancelsOnRelease" classname="CarliCoreTests" runstate="Runnable" seed="1352697979" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.003125" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1038" name="HoldConfirmsOnce" fullname="CarliCoreTests.HoldConfirmsOnce" methodname="HoldConfirmsOnce" classname="CarliCoreTests" runstate="Runnable" seed="1408011579" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.001019" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1039" name="HoldFailsClosedOnLongStall" fullname="CarliCoreTests.HoldFailsClosedOnLongStall" methodname="HoldFailsClosedOnLongStall" classname="CarliCoreTests" runstate="Runnable" seed="1634295217" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000585" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1041" name="HoldRejectsInfiniteFrameTime" fullname="CarliCoreTests.HoldRejectsInfiniteFrameTime" methodname="HoldRejectsInfiniteFrameTime" classname="CarliCoreTests" runstate="Runnable" seed="149157794" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000545" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1042" name="HoldRejectsInvalidThreshold" fullname="CarliCoreTests.HoldRejectsInvalidThreshold" methodname="HoldRejectsInvalidThreshold" classname="CarliCoreTests" runstate="Runnable" seed="144279800" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.008910" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1040" name="HoldRejectsNaNFrameTime" fullname="CarliCoreTests.HoldRejectsNaNFrameTime" methodname="HoldRejectsNaNFrameTime" classname="CarliCoreTests" runstate="Runnable" seed="492702409" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000541" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1037" name="HoldRejectsTrackingLoss" fullname="CarliCoreTests.HoldRejectsTrackingLoss" methodname="HoldRejectsTrackingLoss" classname="CarliCoreTests" runstate="Runnable" seed="64676466" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000469" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1044" name="HoldRejectsZeroAndNegativeFrameTime" fullname="CarliCoreTests.HoldRejectsZeroAndNegativeFrameTime" methodname="HoldRejectsZeroAndNegativeFrameTime" classname="CarliCoreTests" runstate="Runnable" seed="1118291462" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000553" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1043" name="StopAfterExportDoesNotPretendToDeleteSavedFile" fullname="CarliCoreTests.StopAfterExportDoesNotPretendToDeleteSavedFile" methodname="StopAfterExportDoesNotPretendToDeleteSavedFile" classname="CarliCoreTests" runstate="Runnable" seed="1770647486" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000701" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1030" name="StopClearsCurrentDraft" fullname="CarliCoreTests.StopClearsCurrentDraft" methodname="StopClearsCurrentDraft" classname="CarliCoreTests" runstate="Runnable" seed="102500277" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000755" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1035" name="StopInvalidatesPreviouslyCapturedSnapshotAuthorization" fullname="CarliCoreTests.StopInvalidatesPreviouslyCapturedSnapshotAuthorization" methodname="StopInvalidatesPreviouslyCapturedSnapshotAuthorization" classname="CarliCoreTests" runstate="Runnable" seed="737486552" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000620" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1045" name="StopRequiresExplicitNewSession" fullname="CarliCoreTests.StopRequiresExplicitNewSession" methodname="StopRequiresExplicitNewSession" classname="CarliCoreTests" runstate="Runnable" seed="1733953886" result="Passed" start-time="2026-11-17 20:50:38Z" end-time="2026-11-17 20:50:38Z" duration="0.000688" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Saving results to: C:/Users/Asus/AppData/LocalLow/DefaultCompany/CARLi Sense XR\TestResults.xml
+]]></output>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

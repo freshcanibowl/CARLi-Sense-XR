@@ -1,0 +1,10 @@
+{
+    "rootNamespace":  "CarliSenseXR.UnityAdapter",
+    "name":  "CarliSenseXR.UnityAdapter",
+    "references":  [
+                       "CarliSenseXR.Core",
+                       "Unity.XR.Interaction.Toolkit",
+                       "Unity.ugui",
+                       "Unity.XR.Hands"
+                   ]
+}

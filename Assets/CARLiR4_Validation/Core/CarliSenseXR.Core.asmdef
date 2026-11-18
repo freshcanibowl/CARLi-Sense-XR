@@ -1,0 +1,8 @@
+﻿{
+    "rootNamespace":  "CarliSenseXR.Core",
+    "name":  "CarliSenseXR.Core",
+    "noEngineReferences":  true,
+    "references":  [
+
+                   ]
+}

@@ -1,0 +1,14 @@
+{
+    "status": "PASS_PREVIEW_WIRING_ONLY",
+    "scene": "Assets/CARLiR4_Validation/Sanctuary/Scenes/CARLi_CareSanctuary_Preview.unity",
+    "executedAtUtc": "2026-11-17T21:21:39.8025727Z",
+    "disclaimer": "PREVIEW MODE",
+    "scope": "Editor desktop preview wiring only; no XR tracking, real consent, data export, runtime emotional outcomes",
+    "sceneButtonCount": 13,
+    "checkedEventCount": 13,
+    "failures": [],
+    "warnings": [
+        "INSPECT_IN_PLAY_MODE: Chinese glyphs, layout, legibility and language action text",
+        "NOT_PROVEN: real XR hand tracking, consent, Journal export, user emotional value"
+    ]
+}

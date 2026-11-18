@@ -1,0 +1,1 @@
+{"name":"CarliSenseXR.Sanctuary.Tests.EditMode","references":["CarliSenseXR.CareMoments"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"],"defineConstraints":["UNITY_INCLUDE_TESTS"],"overrideReferences":true,"precompiledReferences":["nunit.framework.dll"]}
