@@ -1,1 +1,11 @@
-{"name":"CarliSenseXR.PlayModeEvidence","references":["CarliSenseXR.Sanctuary","CarliSenseXR.CareMoments","Unity.ugui"],"includePlatforms":["Editor"]}
+{
+    "name":  "CarliSenseXR.PlayModeEvidence",
+    "references":  [
+                       "CarliSenseXR.Sanctuary",
+                       "CarliSenseXR.CareMoments",
+                       "Unity.ugui"
+                   ],
+    "includePlatforms":  [
+
+                         ]
+}

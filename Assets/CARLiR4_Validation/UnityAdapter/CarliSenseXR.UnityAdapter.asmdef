@@ -5,6 +5,7 @@
                        "CarliSenseXR.Core",
                        "Unity.XR.Interaction.Toolkit",
                        "Unity.ugui",
-                       "Unity.XR.Hands"
+                       "Unity.XR.Hands",
+                       "Oculus.VR"
                    ]
 }

@@ -47,6 +47,7 @@ namespace CarliSenseXR.Sanctuary.Evidence
 
         private void Start()
         {
+            Debug.Log("CARLI_BUILD05_START_INVOKED");
             #if !UNITY_EDITOR
             enabled = false;
             return;
