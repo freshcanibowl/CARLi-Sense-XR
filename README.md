@@ -53,5 +53,5 @@ in this Unity project and target Meta Quest hardware.
 - [x] Build 05.3 — Scene Save verified (B053_Verified scene, recorder persisted)
 - [x] Play Mode receipt — Start invoked, zero failures
 - [x] Meta XR Core SDK installed, OVRCameraRig in scene (Build 05.4)
-- [ ] 13-click full interaction pass → `PASS_EDITOR_PLAYMODE_UI_ONLY`
+- [x] 13-click full interaction pass → `PASS_EDITOR_PLAYMODE_UI_ONLY` (B055 batch evidence)
 - [ ] Device verification (Quest, XR Hands, eye tracking on Pro-class hardware)
